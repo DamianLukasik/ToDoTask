@@ -1,12 +1,12 @@
 {
-    "name": "damian/ToDoTask",
+    "name": "damian/todotask",
     "description": "app for processing tasks from json file",
     "version": "1.0.0",
     "type": "library",
     "license": "Copyright (c) Damian Łukasik",
     "autoload": {
         "psr-4": {
-            "Damian\\Zadanie\\": "src/"
+            "Damian\\Todotask\\": "src/"
         },
         "classmap": [
             "src/"
