@@ -1,0 +1,25 @@
+{
+    "name": "damian/zadanie",
+    "description": "app for processing tasks from json file",
+    "version": "1.0.0",
+    "type": "library",
+    "license": "Copyright (c) Damian Łukasik",
+    "autoload": {
+        "psr-4": {
+            "Damian\\Zadanie\\": "src/"
+        },
+        "classmap": [
+            "src/"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Damian Łukasik"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^10"
+    }
+}
