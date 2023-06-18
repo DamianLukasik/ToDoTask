@@ -1,5 +1,5 @@
 {
-    "name": "damian/zadanie",
+    "name": "damian/ToDoTask",
     "description": "app for processing tasks from json file",
     "version": "1.0.0",
     "type": "library",
